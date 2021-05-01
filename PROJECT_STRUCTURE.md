@@ -129,5 +129,5 @@ project
 **help**
 1. any spot you see the `...` anotation, it means there are files that are not in folder(s) in that director
 2. when something ends with a `\` or backslash it menas that is the end of the directory
-3. folders annotated as `|--- /folder` are the main folders and folders annotated as `|---/folder` as sub folders
+3. folders annotated as `|--- /folder` are the main folders and folders annotated as `|---/folder` are sub folders
 
